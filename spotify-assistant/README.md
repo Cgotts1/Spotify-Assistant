@@ -8,7 +8,7 @@ N/A
 A single-page application that is currently in development and uses React.js and Spotify Web API. The application will allow users to search for music from their favorite artists and create playlists that they can then save to their own spotify account. 
 
 
-
+Link to video: https://drive.google.com/file/d/1fKRlz5XUOwaJzY1eqUogHfDwFMKnGTex/view
 
 ![Spotify-Assistant](./images/img1.png)
 
